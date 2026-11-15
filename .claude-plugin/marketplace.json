@@ -1,0 +1,11 @@
+{
+  "name": "agent-buddies",
+  "owner": { "name": "suryaprakash-sp" },
+  "plugins": [
+    {
+      "name": "agent-buddies",
+      "source": "./",
+      "description": "Pixel buddies in the bottom-right corner, one per running agent, each with a progress bar"
+    }
+  ]
+}

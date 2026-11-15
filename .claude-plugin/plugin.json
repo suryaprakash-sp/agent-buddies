@@ -1,0 +1,6 @@
+{
+  "name": "agent-buddies",
+  "version": "0.1.0",
+  "description": "Bottom-right box of cute pixel buddies, one per running agent, each with a 5-segment progress bar; shows once 3+ agents run at once",
+  "types": "./types/index.d.ts"
+}
